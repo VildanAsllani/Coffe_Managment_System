@@ -24,5 +24,36 @@ __Funksionet e kamarierit__
 4.	Kamarieri eshte gjendje te nxjerr fature per tavoline.
 
 
-
 **Teknologjite e perdorura ne kete sistem jane C# per gjuhen programuse dhe SQL Server per bazen e te dhenave**
+
+
+
+## Screnshotet e aplikacionit
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/1.png?token=ANTBJKE6DF445MYN5OJ4KWC64AARA)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/2.png?token=ANTBJKGTSFYPW6H42SPY4BK64AA26)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/3.png?token=ANTBJKCNB7KOEU7BKFCJTHK64AA4U)
+
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/4.png?token=ANTBJKCXCNWBGHX5TNNLFSK64ABAE)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/5.png?token=ANTBJKFYAIKAU533EUQUZVS64ABBA)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/6.png?token=ANTBJKHIJQ4JI5DJ7PMSND264ABCE)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/7.png?token=ANTBJKEJURGVSTUTSTKI6M264ABEA)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/8.png?token=ANTBJKFV3G3CCXZSCOMYCPS64ABFC)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/9.png?token=ANTBJKBWJOI7LFMNBN6JRGS64ABGG)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/10.png?token=ANTBJKGYKZ4USOFG3HCTYJ264ABJG)
+
+![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/11.png?token=ANTBJKAN6ZEAWEDIH7XTQZK64ABKG)
+
+
+
+
+
