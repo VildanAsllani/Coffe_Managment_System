@@ -1,0 +1,90 @@
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\bin\Debug\KafiteriaDB.mdf
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\bin\Debug\KafiteriaDB_log.ldf
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe.config
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\bin\Debug\Kafiteria.pdb
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKyqjes.resources
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Properties.Resources.resources
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.exe
+c:\users\vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.pdb
+C:\Users\Vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Administrimi.resources
+C:\Users\Vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Tavolinat.resources
+C:\Users\Vildan's\documents\visual studio 2010\Projects\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKamarierit.resources
+D:\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe.config
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.exe
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.pdb
+D:\Kafiteria\Kafiteria\bin\Debug\KafiteriaDB.mdf
+D:\Kafiteria\Kafiteria\bin\Debug\KafiteriaDB_log.ldf
+D:\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe
+D:\Kafiteria\Kafiteria\bin\Debug\Kafiteria.pdb
+D:\Kafiteria\Kafiteria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Administrimi.resources
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKamarierit.resources
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKyqjes.resources
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Properties.Resources.resources
+D:\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Tavolinat.resources
+D:\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe.config
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.exe
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.pdb
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\bin\Debug\Kafiteria.mdf
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\bin\Debug\Kafiteria_log.ldf
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\bin\Debug\Kafiteria.exe
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\bin\Debug\Kafiteria.pdb
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Administrimi.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKamarierit.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.FormaKyqjes.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Properties.Resources.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\Kafiteria.Tavolinat.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vildan-PC\Desktop\Kafiteria\Kafiteria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.mdf
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria_log.ldf
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.exe.config
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.exe.manifest
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.application
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.exe
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\bin\Debug\Kafiteria.pdb
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.AdminDB.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.Administrimi.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.FormaKamarierit.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.FormaKyqjes.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.Info.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.LoginKeyboard.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.Properties.Resources.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.Raportet.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.Tavolinat.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.TJashte.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.TMbrenda.resources
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\RdlCompile.cache
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.TrustInfo.xml
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.exe.manifest
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.application
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.exe
+C:\Users\Vildan-PC\Desktop\Kafiteria v2\Kafiteria\obj\x86\Debug\Kafiteria.pdb
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\bin\Debug\Kafiteria.exe.config
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.exe
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.pdb
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.csprojResolveAssemblyReference.cache
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.AdminDB.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.Administrimi.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.FormaKamarierit.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.FormaKyqjes.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.Info.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.LoginKeyboard.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.Properties.Resources.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.Raportet.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.Tavolinat.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.TJashte.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.TMbrenda.resources
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.csproj.GenerateResource.Cache
+E:\FK\Viti III\Tema Diplomimit\Restorant - Kafe\Kafiteria\obj\x86\Debug\Kafiteria.TrustInfo.xml
