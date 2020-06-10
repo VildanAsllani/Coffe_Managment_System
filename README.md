@@ -30,30 +30,24 @@ __Funksionet e kamarierit__
 
 ## Screnshotet e aplikacionit
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/1.png?token=ANTBJKE6DF445MYN5OJ4KWC64AARA)
+![](screenshots/1.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/2.png?token=ANTBJKGTSFYPW6H42SPY4BK64AA26)
+![](screenshots/2.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/3.png?token=ANTBJKCNB7KOEU7BKFCJTHK64AA4U)
+![](screenshots/3.png)
 
+![](screenshots/4.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/4.png?token=ANTBJKCXCNWBGHX5TNNLFSK64ABAE)
+![](screenshots/5.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/5.png?token=ANTBJKFYAIKAU533EUQUZVS64ABBA)
+![](screenshots/6.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/6.png?token=ANTBJKHIJQ4JI5DJ7PMSND264ABCE)
+![](screenshots/7.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/7.png?token=ANTBJKEJURGVSTUTSTKI6M264ABEA)
+![](screenshots/8.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/8.png?token=ANTBJKFV3G3CCXZSCOMYCPS64ABFC)
+![](screenshots/9.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/9.png?token=ANTBJKBWJOI7LFMNBN6JRGS64ABGG)
+![](screenshots/10.png)
 
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/10.png?token=ANTBJKGYKZ4USOFG3HCTYJ264ABJG)
-
-![alt text](https://raw.githubusercontent.com/VildanAsllani/Coffe_Managment_System/master/screenshots/11.png?token=ANTBJKAN6ZEAWEDIH7XTQZK64ABKG)
-
-
-
-
-
+![](screenshots/11.png)
